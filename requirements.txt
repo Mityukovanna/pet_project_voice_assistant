@@ -1,0 +1,7 @@
+transformers
+pyttsx3
+speech_recognition
+termcolour
+spotipy
+wikipedia
+pyjokes
